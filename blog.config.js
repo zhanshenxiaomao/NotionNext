@@ -226,7 +226,7 @@ const BLOG = {
       artist: 'Rival&Cadmium&Harley Bird',
       url: 'https://resource.xiaomao.cloudns.org/Seasons (Futuristik & Whogaux Remix).mp3/',
       cover:
-            'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://p2.music.126.net/rBMyEisZoTWWCPgmgj7wPw==/109951163571130734.jpg'
     },
     {
       name: '王都グランセル',
